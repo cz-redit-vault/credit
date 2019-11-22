@@ -24,3 +24,7 @@
 ## 需要大家干吗
 
 - 共同维护、更新这个名单
+
+## 参考
+
+参考 [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
