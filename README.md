@@ -16,7 +16,7 @@
 
 | 昵称/姓名 | 相关产品 | 事件 | 证据 | 影响 | 关联产品 |
 | -- | -- | -- | -- | -- | -- |
-| MacTalk 池建强 | 懒投资 | 推荐的懒投资有欺诈、失职行为 |[我的2018年投资简报](https://mp.weixin.qq.com/s/oioV7DY-6YZsll37rGUU-w) [懒人如何理财](https://mp.weixin.qq.com/s/ebdwFb1DGf18ELtaTQikgg) [全球年轻人都在变穷吗](https://mp.weixin.qq.com/s/aw5FV-AmEpN4fAZFt2jd7g)| 大概 25 亿元 P2P 逾期 | 极客时间 |
+| MacTalk 池建强 | 懒投资 | 推荐的懒投资有欺诈、失职行为 |[我的2018年投资简报](https://mp.weixin.qq.com/s/oioV7DY-6YZsll37rGUU-w) <br/>[懒人如何理财](https://mp.weixin.qq.com/s/ebdwFb1DGf18ELtaTQikgg) <br/>[全球年轻人都在变穷吗](https://mp.weixin.qq.com/s/aw5FV-AmEpN4fAZFt2jd7g)| 大概 25 亿元 P2P 逾期 | 极客时间 |
 | Fenng 冯大辉 | 懒投资 | 推荐的懒投资有欺诈、失职行为 |[这家伙创业三年了，做的还不错](https://mp.weixin.qq.com/s/7baiuz82RmsLA7Nz_3dmmA)| 大概 25 亿元 P2P 逾期 | 无码科技 |
 | 大玩家张磊 | 懒投资 | 懒投资有欺诈、失职行为 | CEO 本人 | 大概 25 亿元 P2P 逾期 | 懒投资、高格证券 |
 | 罗永浩？ | | |
