@@ -2,7 +2,7 @@
 
 维护此列表的原因
 
-1. [懒投资事件，在处理债权时有误导、误导、涉嫌欺诈的行为](stories/story-lantouzi.md)
+1. [懒投资&大V 欺诈 & 失职 事件](stories/story-lantouzi.md)
 2. 社交网络(社交媒体本身、大 V)对人们生活决策的影响，可以看看 [Ted 英国脱欧: 社交网络对民主的影响](https://youtu.be/OQSMr-3GGvQ)
 
 为啥要晒呢
@@ -23,7 +23,7 @@
 
 ## 故事 & 事件
 
-- [懒投资 欺诈&失职](stories/story-lantouzi.md)
+- [懒投资&大V 欺诈 & 失职 事件](stories/story-lantouzi.md)
 
 ## 需要大家干吗
 
