@@ -1,6 +1,6 @@
 # [互联网大 V 信誉黑/灰名单（求扩散、传播、更新）](https://cz-redit-vault.github.io/credit/)
 
-> [IT 大 V 韭菜恩爱史](https://cz-redit-vault.github.io/it-big-short/)
+> 另外一篇 [IT 大 V 韭菜恩爱史](https://cz-redit-vault.github.io/it-big-short/)
 
 ## 这不是啥
 
