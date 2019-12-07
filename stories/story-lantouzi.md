@@ -8,5 +8,5 @@
 
 ### Fenng
 
-![回骂网友](screenshots/Fenng Crash-1.png)
-![回骂网友](screenshots/Fenng Crash-2.png)
+![回骂网友](../screenshots/Fenng Crash-1.png)
+![回骂网友](../screenshots/Fenng Crash-2.png)
