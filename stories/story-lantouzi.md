@@ -10,7 +10,7 @@
 
 ### 风控承诺
 
-磊在介绍产品时，是这么给他和帮他引流的大V 说的 ["有钱交给小张就好了，不管姿势，躺着赚钱"]([1])
+磊在介绍产品时，是这么给他和帮他引流的大V 说的 ["有钱交给小张就好了，不管姿势，躺着赚钱"][1]
 
 池建强
 
@@ -30,4 +30,4 @@
 
 ## 参考
 
-- [1] https://mp.weixin.qq.com/s/aQtkMdOax3KmK9EXrjoxHA
+[1] https://mp.weixin.qq.com/s/aQtkMdOax3KmK9EXrjoxHA
