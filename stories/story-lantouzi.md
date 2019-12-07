@@ -8,5 +8,5 @@
 
 ### Fenng
 
-![回骂网友](../screenshots/Fenng 回怼懒投资一事.png)
-![回骂网友](../screenshots/Fenng 回怼懒投资一事2.png)
+![回骂网友](screenshots/Fenng Crash-1.png)
+![回骂网友](screenshots/Fenng Crash-2.png)
