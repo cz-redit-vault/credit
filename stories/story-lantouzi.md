@@ -1,5 +1,12 @@
 # 懒投资&大V 欺诈 & 失职 事件
 
+## 多大点事儿啊？
+
+宣传风控良好的懒投资平台背后，是涉嫌欺诈 & 刑事犯罪的假担保实非法集资公司
+
+事件进度 & 证据请移步微博 [
+懒投资出借人监督协调小组][4]
+
 ## 事件起因
 
 2019.10 起北上深三地投资人开始联合关注懒投资逾期一事儿，参见微博超话 “懒投资”
@@ -41,6 +48,9 @@
 
 如此明显的欺诈行为，懒投资产品风控是这么通过的？
 
+更多网友挖掘的欺诈行为 & 涉嫌刑事犯罪行为，请移步微博 [
+懒投资出借人监督协调小组][4]
+
 ## 各方回应
 
 ### Fenng
@@ -56,3 +66,4 @@
 [1]: https://mp.weixin.qq.com/s/aQtkMdOax3KmK9EXrjoxHA
 [2]: https://web.archive.org/web/20191127103242/https://mp.weixin.qq.com/s/ebdwFb1DGf18ELtaTQikgg
 [3]: https://weibo.com/1739323701/Ig9va5TvR
+[4]: https://weibo.com/u/6237556656?refer_flag=0000015012_&from=feed&loc=nickname
